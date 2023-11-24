@@ -1,0 +1,418 @@
+/* custom css progress circle by Daniel Triswahyudi */
+.progress-circle{
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    mask-size: cover;
+}
+
+.prc{
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    mask-size: cover;
+}
+.prc-info{
+    background: #36b9cc;
+}
+.prc-10{
+    mask-image: url('svgprog/10.svg');
+}
+
+.progress-circle-info{
+    background: #36b9cc;
+}
+
+.progress-0{
+    mask-image: url('svgprog/0.svg'); 
+}
+.progress-1{
+    mask-image: url('svgprog/1.svg');   
+}
+.progress-2{
+    mask-image: url('svgprog/2.svg');
+}
+.progress-3{
+    mask-image: url('svgprog/3.svg');
+}
+.progress-4{
+    mask-image: url('svgprog/4.svg');
+}
+.progress-5{
+    mask-image: url('svgprog/5.svg');
+}
+.progress-6{
+    mask-image: url('svgprog/6.svg');
+}
+.progress-7{
+    mask-image: url('svgprog/7.svg');
+}
+.progress-8{
+    mask-image: url('svgprog/8.svg');
+}
+.progress-9{
+    mask-image: url('svgprog/9.svg');
+}
+.progress-10{
+    mask-image: url('svgprog/10.svg');
+}
+.progress-11{
+    mask-image: url('svgprog/11.svg');
+}
+.progress-12{
+    mask-image: url('svgprog/12.svg');
+}
+.progress-13{
+    mask-image: url('svgprog/13.svg');
+}
+.progress-14{
+    mask-image: url('svgprog/14.svg');
+}
+.progress-15{
+    mask-image: url('svgprog/15.svg');
+}
+.progress-16{
+    mask-image: url('svgprog/16.svg');
+}
+.progress-17{
+    mask-image: url('svgprog/17.svg');
+}
+.progress-18{
+    mask-image: url('svgprog/18.svg');
+}
+.progress-19{
+    mask-image: url('svgprog/19.svg');
+}
+.progress-20{
+    mask-image: url('svgprog/20.svg');
+}
+.progress-21{
+    mask-image: url('svgprog/21.svg');
+}
+.progress-22{
+    mask-image: url('svgprog/22.svg');
+}
+.progress-23{
+    mask-image: url('svgprog/23.svg');
+}
+.progress-24{
+    mask-image: url('svgprog/24.svg');
+}
+.progress-25{
+    mask-image: url('svgprog/25.svg');
+}
+.progress-26{
+    mask-image: url('svgprog/26.svg');
+}
+.progress-27{
+    mask-image: url('svgprog/27.svg');
+}
+.progress-28{
+    mask-image: url('svgprog/28.svg');
+}
+.progress-29{
+    mask-image: url('svgprog/29.svg');
+}
+.progress-30{
+    mask-image: url('svgprog/30.svg');
+}
+.progress-31{
+    mask-image: url('svgprog/31.svg');
+}
+.progress-32{
+    mask-image: url('svgprog/32.svg');
+}
+.progress-33{
+    mask-image: url('svgprog/33.svg');
+}
+.progress-34{
+    mask-image: url('svgprog/34.svg');
+}
+.progress-35{
+    mask-image: url('svgprog/35.svg');
+}
+.progress-36{
+    mask-image: url('svgprog/36.svg');
+}
+.progress-37{
+    mask-image: url('svgprog/37.svg');
+}
+.progress-38{
+    mask-image: url('svgprog/38.svg');
+}
+.progress-39{
+    mask-image: url('svgprog/39.svg');
+}
+.progress-40{
+    mask-image: url('svgprog/40.svg');
+}
+.progress-41{
+    mask-image: url('svgprog/41.svg');
+}
+.progress-42{
+    mask-image: url('svgprog/42.svg');
+}
+.progress-43{
+    mask-image: url('svgprog/43.svg');
+}
+.progress-44{
+    mask-image: url('svgprog/44.svg');
+}
+.progress-45{
+    mask-image: url('svgprog/45.svg');
+}
+.progress-46{
+    mask-image: url('svgprog/46.svg');
+}
+.progress-47{
+    mask-image: url('svgprog/47.svg');
+}
+.progress-48{
+    mask-image: url('svgprog/48.svg');
+}
+.progress-49{
+    mask-image: url('svgprog/49.svg');
+}
+.progress-50{
+    mask-image: url('svgprog/50.svg');
+}
+.progress-51{
+    mask-image: url('svgprog/51.svg');
+}
+.progress-52{
+    mask-image: url('svgprog/52.svg');
+}
+.progress-53{
+    mask-image: url('svgprog/53.svg');
+}
+.progress-54{
+    mask-image: url('svgprog/54.svg');
+}
+.progress-55{
+    mask-image: url('svgprog/55.svg');
+}
+.progress-56{
+    mask-image: url('svgprog/56.svg');
+}
+.progress-57{
+    mask-image: url('svgprog/57.svg');
+}
+.progress-58{
+    mask-image: url('svgprog/58.svg');
+}
+.progress-59{
+    mask-image: url('svgprog/59.svg');
+}
+.progress-60{
+    mask-image: url('svgprog/60.svg');
+}
+.progress-61{
+    mask-image: url('svgprog/61.svg');
+}
+.progress-62{
+    mask-image: url('svgprog/62.svg');
+}
+.progress-63{
+    mask-image: url('svgprog/63.svg');
+}
+.progress-64{
+    mask-image: url('svgprog/64.svg');
+}
+.progress-65{
+    mask-image: url('svgprog/65.svg');
+}
+.progress-66{
+    mask-image: url('svgprog/66.svg');
+}
+.progress-67{
+    mask-image: url('svgprog/67.svg');
+}
+.progress-68{
+    mask-image: url('svgprog/68.svg');
+}
+.progress-69{
+    mask-image: url('svgprog/69.svg');
+}
+.progress-70{
+    mask-image: url('svgprog/70.svg');
+}
+.progress-71{
+    mask-image: url('svgprog/71.svg');
+}
+.progress-72{
+    mask-image: url('svgprog/72.svg');
+}
+.progress-73{
+    mask-image: url('svgprog/73.svg');
+}
+.progress-74{
+    mask-image: url('svgprog/74.svg');
+}
+.progress-75{
+    mask-image: url('svgprog/75.svg');
+}
+.progress-76{
+    mask-image: url('svgprog/76.svg');
+}
+.progress-77{
+    mask-image: url('svgprog/77.svg');
+}
+.progress-78{
+    mask-image: url('svgprog/78.svg');
+}
+.progress-79{
+    mask-image: url('svgprog/79.svg');
+}
+.progress-80{
+    mask-image: url('svgprog/80.svg');
+}
+.progress-81{
+    mask-image: url('svgprog/81.svg');
+}
+.progress-82{
+    mask-image: url('svgprog/82.svg');
+}
+.progress-83{
+    mask-image: url('svgprog/83.svg');
+}
+.progress-84{
+    mask-image: url('svgprog/84.svg');
+}
+.progress-85{
+    mask-image: url('svgprog/85.svg');
+}
+.progress-86{
+    mask-image: url('svgprog/86.svg');
+}
+.progress-87{
+    mask-image: url('svgprog/87.svg');
+}
+.progress-88{
+    mask-image: url('svgprog/88.svg');
+}
+.progress-89{
+    mask-image: url('svgprog/89.svg');
+}
+.progress-90{
+    mask-image: url('svgprog/90.svg');
+}
+.progress-91{
+    mask-image: url('svgprog/91.svg');
+}
+.progress-92{
+    mask-image: url('svgprog/92.svg');
+}
+.progress-93{
+    mask-image: url('svgprog/93.svg');
+}
+.progress-94{
+    mask-image: url('svgprog/94.svg');
+}
+.progress-95{
+    mask-image: url('svgprog/95.svg');
+}
+.progress-96{
+    mask-image: url('svgprog/96.svg');
+}
+.progress-97{
+    mask-image: url('svgprog/97.svg');
+}
+.progress-98{
+    mask-image: url('svgprog/98.svg');
+}
+.progress-99{
+    mask-image: url('svgprog/99.svg');
+}
+.progress-100{
+    mask-image: url('svgprog/100.svg');
+}
+
+.progress-b{
+    width: 100px;
+    height: 33px;
+    display: inline-block;
+}
+.progress-b rect{
+    stroke-width: 2;
+}
+
+.progress-a-width{
+    width: 100%;
+    height: 33px;
+    display: inline-block;
+}
+.progress-a-width rect{
+    stroke-width: 2;
+}
+
+.rect-info{
+    stroke:#36b9cc;
+    width: 100%;
+    height: 100%;
+    fill: url(#grad-grey) #efefef;
+}
+.rect-fill-info{
+    /*fill:#36b9cc;*/
+    fill:url(#grad-info) gray;
+}
+
+.rect-fill-success{
+    /*fill:#36b9cc;*/
+    fill:url(#grad-success) white;
+}
+
+.rect-fill-danger{
+    fill:url(#grad-danger) white;
+}
+
+.rect-fill-warning{
+    fill:url(#grad-warning) white;
+}
+
+.rect-fill-purple{
+    fill:url(#grad-purple) black;
+}
+.rect-fill-pink{
+    fill:url(#grad-pink) black;
+}
+#grad-info{
+    --color-stop-1: #36b9cc;
+    --color-stop-2: #fff;
+    --color-stop-3: #36b9cc;
+}
+
+#grad-grey{
+    --color-stop-1: #e2e2e2;
+    --color-stop-2: white;
+    --color-stop-3: #b8b8b8;
+}
+
+#grad-success{
+    --color-stop-1: #0ca16b;
+    --color-stop-2: #1cc88a;
+    --color-stop-3: #0ca16b;
+}
+
+#grad-danger{
+    --color-stop-1: #e74a3b;
+    --color-stop-2: #ff8175;
+    --color-stop-3: #e74a3b;
+}
+
+#grad-warning{
+    --color-stop-1: #f6c23e;
+    --color-stop-2: #fcde91;
+    --color-stop-3: #f6c23e;
+}
+
+#grad-purple{
+    --color-stop-1: #6f42c1;
+    --color-stop-2: #a879ff;
+    --color-stop-3: #6f42c1;
+}
+
+#grad-pink{
+    --color-stop-1: #e83e8c;
+    --color-stop-2: #fc82bb;
+    --color-stop-3: #e83e8c;
+}
